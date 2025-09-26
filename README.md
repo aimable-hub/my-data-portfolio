@@ -44,9 +44,7 @@ This repository serves as a **hub of my projects and learning journey** — show
 
 ## 📫 Let’s Connect  
 
-- LinkedIn: [Your LinkedIn URL]  
-- Email: [Your Email]  
-
+- LinkedIn:https://www.linkedin.com/in/aimable-nduwumwami/
 
 ---
 
